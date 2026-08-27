@@ -108,6 +108,7 @@
             ],
             "category": "public.app-category.entertainment",
             "icon": "build/icon.icns",
+            "identity": "-",
             "hardenedRuntime": true,
             "gatekeeperAssess": false,
             "entitlements": "build/entitlements.mac.plist",
